@@ -1,4 +1,4 @@
-//Work in progress
+// WORK IN PROGRESS
 
 import hashlib
 import json
